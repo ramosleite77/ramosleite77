@@ -1,7 +1,6 @@
 #About Me 👋
 
-Sou André Ramos Leite, um apaixonado pela interseção entre tecnologia e inovação. Formado em Engenharia da Computação, atuo em áreas como automação de processos, desenvolvimento SaaS/BaaS, segurança de sistemas e logística. Minha missão é construir soluções práticas e escaláveis que impactem positivamente as operações e os resultados das empresas.  
-
+Sou André Ramos Leite, um apaixonado pela interseção entre tecnologia e inovação. Formado em Engenharia da Computação, atuo em áreas como automação, SaaS/BaaS e DevOps multocloud.
 🚀 O que estou fazendo atualmente
 
 Trabalhando em projetos de automação de processos usando N8N e ferramentas no-code.  
